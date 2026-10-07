@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  - :raising_hand: Currently working as a Assoc. Speclialist Solutions Architect in Data Analytics, based in Seoul.<br/>
+  - :raising_hand: Currently working as a Speclialist Solutions Architect in Data Analytics, based in Seoul.<br/>
   <!--- :fire: I aim to become a Cloud AI Engineer.<br/>-->
   -  :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
